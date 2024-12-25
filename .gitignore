@@ -11,3 +11,11 @@ checkpoints/
 # For PyCharm users
 .idea/
 
+# data
+trading_data.csv
+
+# mid
+*.npy
+
+# model
+*.zip

@@ -1,4 +1,4 @@
-# NeuralNet.py
+# trading/NeuralNet.py
 class NeuralNet():
     """
     This class specifies the base NeuralNet class. To define your own neural
