@@ -4,7 +4,6 @@ from othello.OthelloGame import OthelloGame
 from othello.OthelloPlayers import *
 from othello.pytorch.NNet import NNetWrapper as NNet
 
-
 import numpy as np
 from utils import *
 
@@ -25,7 +24,6 @@ else:
 rp = RandomPlayer(g).play
 gp = GreedyOthelloPlayer(g).play
 hp = HumanOthelloPlayer(g).play
-
 
 
 # nnet players
